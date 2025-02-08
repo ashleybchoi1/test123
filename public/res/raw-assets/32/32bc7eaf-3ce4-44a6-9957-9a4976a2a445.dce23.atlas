@@ -1,0 +1,27 @@
+
+Thag.png
+size: 208,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_Th
+  rotate: false
+  xy: 0, 0
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 0, 44
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+text_Th
+  rotate: true
+  xy: 166, 106
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1

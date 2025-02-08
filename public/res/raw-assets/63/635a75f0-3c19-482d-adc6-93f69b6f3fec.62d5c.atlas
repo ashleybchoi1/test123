@@ -1,0 +1,41 @@
+
+bat_mo.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 197, 1
+  size: 155, 135
+  orig: 155, 135
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1, 275
+  size: 195, 151
+  orig: 195, 151
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1, 118
+  size: 195, 156
+  orig: 195, 156
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 197, 286
+  size: 195, 140
+  orig: 195, 140
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 197, 137
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1
