@@ -14,6 +14,7 @@ app.use(cors({
 }));
 let port = process.env.PORT ||  10000;
 let expressWs = require('express-ws')(app);
+console.log(expressWs);
 let bodyParser = require('body-parser');
 var morgan = require('morgan');
 
