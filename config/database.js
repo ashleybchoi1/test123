@@ -1,9 +1,9 @@
 //Mã nguồn được chia sẻ tại gamebai.dev
 module.exports = {
-	'url': 'mongodb://127.0.0.1:27017',
+	'url': 'mongodb+srv://rikfan:rikfan123@rikfan.9yj5x.mongodb.net/',
 	'options': {
-		//'user':   'game',
-		//'pass':   'game@789',
+		'user':   'rikfan',
+		'pass':   'rikfan123',
 		'dbName': 'rikfan', // red
 		'useNewUrlParser': true,
 		'useUnifiedTopology': true,
